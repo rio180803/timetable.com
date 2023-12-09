@@ -12,6 +12,11 @@ header {
     padding: 10px;
 }
 
+/* Added styles to underline the header */
+header h1 {
+    text-decoration: underline;
+}
+
 section {
     margin: 20px;
     text-align: left;
